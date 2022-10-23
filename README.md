@@ -24,6 +24,11 @@ Step 6:
 End of the program
 
 ## PROGRAM:
+
+Developed by:sarvesh.s
+
+RegisterNumber: 22003029
+
 ```
 import sys
 count= 0
